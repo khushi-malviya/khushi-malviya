@@ -31,7 +31,7 @@ I thrive in environments where creativity meets technical excellence and am moti
 - 👯 I'm looking to collaborate on: **Innovative web applications and data-driven projects**
 - 💬 Ask me about: **React, Node.js, MongoDB, or how to analyze a dataset!**
 - 📫 How to reach me: **khushimalviya11054@gmail.com**
-- ⚡ Fun fact: **I'm a trained classical singer! 🎤**
+- ⚡ Fun fact: **I'm a trained classical singer! 🎤** Hear me at: (https://www.youtube.com/@khushi._.malviya)
 
 ---
 
