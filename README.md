@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Khushi Malviya! 👋</h1>
-<h3 align="center">A Passionate Full-Stack Developer from India</h3>
+<h3 align="center">A Passionate Data Analytics and Data Science Enthusiast from India</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Final+Year+CSE+Student;Full-Stack+Developer;Software+Engineer;Data+Analyst;Product+Management+Enthusiast;Trained+Classical+Singer%F0%9F%8E%A4%EF%B8%8E" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=B.+Tech+CSE+Graduate+of+2026;Full-Stack+Developer;Data+Analyst;Product+Management+Enthusiast;Trained+Classical+Singer%F0%9F%8E%A4%EF%B8%8E" alt="Typing SVG" /></a>
 </p>
 
 <br>
@@ -26,8 +26,8 @@ I'm a passionate and driven final-year Computer Science graduate @ **VIT Bhopal*
 
 I thrive in environments where creativity meets technical excellence and am motivated by challenges that demand both **analytical thinking** and **collaborative problem-solving**.
 
-- 🔭 I'm currently working on: **Sharpening my DSA skills and exploring cloud technologies**
-- 🌱 I'm currently learning: **Advanced System Design and DevOps practices**
+- 🔭 I'm currently working on: **Sharpening my DSA skills and working on hands on Data Analytics or Data Science projects**
+- 🌱 I'm currently learning: **Data Science and AI**
 - 👯 I'm looking to collaborate on: **Innovative web applications and data-driven projects**
 - 💬 Ask me about: **React, Node.js, MongoDB, or how to analyze a dataset!**
 - 📫 How to reach me: **khushimalviya11054@gmail.com**
