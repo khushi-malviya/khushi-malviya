@@ -31,7 +31,7 @@ I thrive in environments where creativity meets technical excellence and am moti
 - 👯 I'm looking to collaborate on: **Innovative web applications and data-driven projects**
 - 💬 Ask me about: **React, Node.js, MongoDB, or how to analyze a dataset!**
 - 📫 How to reach me: **khushimalviya11054@gmail.com**
-- ⚡ Fun fact: **I'm a trained classical singer! 🎤** Hear me at: (https://www.youtube.com/@khushi._.malviya)
+- ⚡ Fun fact: **I'm a trained classical singer! 🎤
 
 ---
 
@@ -61,90 +61,6 @@ I thrive in environments where creativity meets technical excellence and am moti
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-404D59?style=for-the-badge&logo=POWERBI&logoColor=white)
-
----
-
-## 💼 Featured Projects
-
-### 🚨 Disaster Sync — Emergency Management Platform
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-A comprehensive real-time system easing emergency incident management for police, fire, disaster response, and other agencies.
-
-**✨ Key Features:**
-- Secure user authentication with role-based access
-- Robust incident tracking and volunteer task assignment
-- Real-time status updates via WebSocket (Socket.io)
-- Alert & notification broadcasting system
-- Inventory and supply chain monitoring with request workflows
-
-**🚀 Tech Stack:** React, Node.js, Express, MongoDB Atlas, JWT, Tailwind CSS, Socket.io
-
-[![View Project](https://img.shields.io/badge/View_Project-LIVE-00B0FF?style=for-the-badge)](https://github.com/khushi-malviya/Disaster-Sync)
-
----
-
-### 🚗 Car Rental — Secure Car Rental Platform
-![MERN Stack](https://img.shields.io/badge/MERN_Stack-00D8FF?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-![ImageKit](https://img.shields.io/badge/ImageKit-FF0000?style=flat-square)
-
-A full-stack car rental platform with secure booking system and admin dashboard.
-
-**✨ Key Features:**
-- JWT-based user authentication
-- Car listings with location and date selection
-- Secure booking system
-- Admin dashboard for inventory and booking management
-- Optimized media delivery using ImageKit
-- Responsive, mobile-first design
-
-**🚀 Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js), JWT, Tailwind CSS, ImageKit, Vercel
-
-[![View Project](https://img.shields.io/badge/View_Project-LIVE-00B0FF?style=for-the-badge)](https://car-rental-eight-mauve.vercel.app/cars)
-
----
-
-### 📊 Survey Master — Survey Creation & Analytics Platform
-![MERN Stack](https://img.shields.io/badge/MERN_Stack-00D8FF?style=flat-square)
-![Analytics](https://img.shields.io/badge/Analytics-FF6B6B?style=flat-square)
-
-A comprehensive platform for creating, distributing, and analyzing surveys with real-time insights.
-
-**✨ Key Features:**
-- Create and distribute custom surveys
-- Real-time analytics and response tracking
-- User authentication and management
-- Owner dashboard with survey management
-- Responsive and intuitive design
-
-**🚀 Tech Stack:** MERN Stack, Real-time updates, Responsive Design
-
-[![View Project](https://img.shields.io/badge/View_Project-LIVE-00B0FF?style=for-the-badge)](https://github.com/khushi-malviya/SurveyMaster)
-
----
-
-### 📈 E-Commerce Data Analysis Dashboard
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-*Just completed my first end-to-end data analysis project!*
-
-**📊 Project Overview:**
-Analyzed **4 years of e-commerce data (9,994+ transactions)** and built an **interactive Tableau dashboard** that reveals critical business insights.
-
-**🎯 Key Findings:**
-- Identified a **$25K loss** in Central region operations
-- Discovered **18.7% of orders** generate negative profit
-- **Technology category** drives the highest margins (37.2% for Copiers)
-
-**🛠️ Tech Stack:** Python, Pandas, Tableau, Data Visualization
-
-[![View Dashboard](https://img.shields.io/badge/View_Dashboard-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/views/E-COMMERCESALESPERFORMANCEDASHBOARD/E-COMMERCESALESPERFORMANCEDASHBOARD?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
