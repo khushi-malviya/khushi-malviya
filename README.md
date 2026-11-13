@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Data Analytics and Data Science Enthusiast from India</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=B.+Tech+CSE+Graduate+of+2026;Full-Stack+Developer;Data+Analyst;Product+Management+Enthusiast;Trained+Classical+Singer%F0%9F%8E%A4%EF%B8%8E" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=B[...]
 </p>
 
 <br>
@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate and driven final-year Computer Science graduate @ **VIT Bhopal** 🎓, actively seeking impactful **internship or full-time opportunities**. I bring a versatile skill set in **full-stack development**, complemented by a solid grasp of **software engineering principles**, **data analysis**, and **product management fundamentals**.
+I'm a passionate and driven final-year Computer Science graduate @ **VIT Bhopal** 🎓, actively seeking impactful **internship or full-time opportunities**. I bring a versatile skill set in **full-stack development**, **data analytics**, and **AI/ML**, with hands-on experience building solutions that combine technical implementation with real-world problem solving.
 
 I thrive in environments where creativity meets technical excellence and am motivated by challenges that demand both **analytical thinking** and **collaborative problem-solving**.
 
@@ -31,7 +31,7 @@ I thrive in environments where creativity meets technical excellence and am moti
 - 👯 I'm looking to collaborate on: **Innovative web applications and data-driven projects**
 - 💬 Ask me about: **React, Node.js, MongoDB, or how to analyze a dataset!**
 - 📫 How to reach me: **khushimalviya11054@gmail.com**
-- ⚡ Fun fact: **I'm a trained classical singer! 🎤
+- ⚡ Fun fact: **I'm a trained classical singer! 🎤**
 
 ---
 
@@ -53,14 +53,30 @@ I thrive in environments where creativity meets technical excellence and am moti
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📊 Data Analytics & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+
+### 🤖 AI / ML & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data_Science-00BFA5?style=for-the-badge)
 
 ### ☁️ Platforms & Tools
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-404D59?style=for-the-badge&logo=POWERBI&logoColor=white)
 
 ---
 
