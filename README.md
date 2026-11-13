@@ -20,6 +20,29 @@
 
 ---
 
+## ⭐ Featured Projects
+
+### [Walmart Sales Analysis & 12-Week Forecasting](https://github.com/khushi-malviya/Walmart_Sales_Analysis_and_Forecasting)
+- Analyzed 6,435 weekly sales records across 45 stores to uncover seasonal, holiday, store-level, and economic patterns.
+- Compared forecasting models; Gradient Boosting achieved **5.15% MAPE** on chronological validation.
+- Forecast sales for all 45 stores over 12 weeks, translating results into inventory and demand-planning recommendations.
+
+### [E-commerce Sales Performance Analysis](https://github.com/khushi-malviya/E-Commerce-Sales-Analysis)
+- Analyzed **9,994 transactions** from 2014–2017 using Python and Tableau to assess sales, profitability, products, regions, and discounts.
+- Identified **$2.29M in sales and $286K in profit**, along with loss-making areas such as the Central region and heavily discounted orders.
+- Built an interactive Tableau dashboard and proposed strategies for discount controls, regional performance, and customer loyalty.
+
+### [Customer Shopping Behavior Analysis](https://github.com/khushi-malviya/Customer-Trends-Data-Analysis)
+- Built an end-to-end analytics workflow for **3,900 customer transactions**, using Python for data preparation, PostgreSQL for business analysis, and Power BI for visualization.
+- Examined customer segments, subscriptions, discounts, product preferences, and repeat purchasing; the analysis found loyal customers made up about **80%** of the customer base.
+- Developed dashboard insights and recommendations for subscription conversion, loyalty programs, discount strategy, and targeted marketing.
+
+### [EV Charging Network Analytics](https://github.com/khushi-malviya/EV-Charging-Network-Analytics)
+- Analyzed **1,878 charging sessions** and **64,277 minute-level measurements** to assess demand, energy delivery, and charging operations.
+- Used Excel Power Query and Power Pivot to build a data model, operational KPIs, and an interactive dashboard.
+- Identified **18:00** as the peak arrival hour and surfaced demand and power-use patterns to support operational monitoring and capacity planning.
+---
+
 ## 🚀 About Me
 
 I'm a passionate and driven final-year Computer Science graduate @ **VIT Bhopal** 🎓, actively seeking impactful **internship or full-time opportunities**. I bring a versatile skill set in **full-stack development**, **data analytics**, and **AI/ML**, with hands-on experience building solutions that combine technical implementation with real-world problem solving.
